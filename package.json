@@ -8,8 +8,7 @@
   "publishConfig": {
     "access": "restricted"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CoCreate-app/CoCreate-loadtest.git"
@@ -25,6 +24,5 @@
     "url": "https://github.com/sponsors/CoCreate-app"
   },
   "main": "./src/index.js",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
